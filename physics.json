@@ -1,0 +1,118 @@
+[
+{
+"question": "What is the formula for calculating force?\nA: F = ma\nB: F = mv\nC: F = m/v\nD: F = m*a",
+"answer": "D"
+},
+{
+"question": "What is the unit of resistance?\nA: Ampere\nB: Volt\nC: Ohm\nD: Watt",
+"answer": "C"
+},
+{
+"question": "What is the SI unit of frequency?\nA: Hertz\nB: Joule\nC: Pascal\nD: Newton",
+"answer": "A"
+},
+{
+"question": "What is the process by which light travels through a medium?\nA: Reflection\nB: Refraction\nC: Absorption\nD: Diffraction",
+"answer": "B"
+},
+{
+"question": "What is the formula for calculating work?\nA: W = F*d\nB: W = F/v\nC: W = m/v\nD: W = m*a",
+"answer": "A"
+},
+{
+"question": "What is the process of converting a solid directly to a gas without passing through a liquid state called?\nA: Sublimation\nB: Condensation\nC: Melting\nD: Freezing",
+"answer": "A"
+},
+{
+"question": "What is the formula for calculating power?\nA: P = W/t\nB: P = F/d\nC: P = F*a\nD: P = m/v",
+"answer": "A"
+},
+{
+"question": "What is the process of converting a gas directly to a solid without passing through a liquid state called?\nA: Deposition\nB: Condensation\nC: Melting\nD: Freezing",
+"answer": "A"
+},
+{
+"question": "What is the formula for calculating pressure?\nA: P = F/A\nB: P = W/t\nC: P = F/d\nD: P = m/v",
+"answer": "A"
+},
+{
+"question": "What is the process by which a solid changes directly into a gas without passing through a liquid state called?\nA: Sublimation\nB:Melting\nC: Vaporization\nD: Condensation",
+"answer": "A"
+},
+{
+"question": "What is the formula for calculating density?\nA: D = m/V\nB: D = V/m\nC: D = P/A\nD: D = F/d",
+"answer": "A"
+},
+{
+"question": "What is the process by which a liquid changes into a gas at a temperature below its boiling point called?\nA: Evaporation\nB: Condensation\nC: Sublimation\nD: Melting",
+"answer": "A"
+},
+{
+"question": "What is the formula for converting Celsius to Fahrenheit?\nA: F = (C x 9/5) + 32\nB: F = (C + 32) x 9/5\nC: F = C - 32\nD: F = C x 5/9",
+"answer": "A"
+},
+{
+"question": "What is the formula for converting Fahrenheit to Celsius?\nA: C = (F - 32) x 5/9\nB: C = F x 9/5 + 32\nC: C = F + 32\nD: C = F x 5/9",
+"answer": "A"
+},
+{
+"question": "What is the unit of measurement for energy?\nA: Joule\nB: Newton\nC: Watt\nD: Volt",
+"answer": "A"
+},
+{
+"question": "What is the unit of measurement for power?\nA: Watt\nB: Joule\nC: Newton\nD: Volt",
+"answer": "A"
+},
+{
+"question": "What is the process by which a gas changes into a liquid called?\nA: Condensation\nB: Vaporization\nC: Sublimation\nD: Melting",
+"answer": "A"
+},
+{
+"question": "What is the process by which a liquid changes into a solid called?\nA: Freezing\nB: Condensation\nC: Sublimation\nD: Melting",
+"answer": "A"
+},
+{
+"question": "What is the process by which a solid changes into a liquid called?\nA: Melting\nB: Freezing\nC: Condensation\nD: Sublimation",
+"answer": "A"
+},
+{
+"question": "What is the formula for calculating velocity?\nA: v = d/t\nB: v = F/m\nC: v = a/t\nD: v = P/t",
+"answer": "A"
+},
+{
+"question": "What is the formula for calculating acceleration?\nA: a = (v2 - v1)/t\nB: a = F/m\nC: a = P/t\nD: a = v/d",
+"answer": "A"
+},
+{
+"question": "What is the unit of measurement for current?\nA: Ampere\nB: Volt\nC: Ohm\nD: Watt",
+"answer": "A"
+},
+{
+"question": "What is the unit of measurement for voltage?\nA: Volt\nB: Ampere\nC: Ohm\nD: Watt",
+"answer": "A"
+},
+{
+"question": "What is the unit of measurement for resistance?\nA: Ohm\nB: Ampere\nC: Volt\nD: Watt",
+"answer": "A"
+},
+{
+"question": "What is the unit of measurement for frequency?\nA: Hertz\nB: Joule\nC: Pascal\nD: Newton",
+"answer": "A"
+},
+{
+"question": "What is the process by which sound waves bounce off a surface called?\nA: Reflection\nB: Refraction\nC: Absorption\nD: Diffraction",
+"answer": "A"
+},
+{
+"question": "What is the process by which sound waves bend as they pass through a medium of different density?\nA: Refraction\nB: Reflection\nC: Absorption\nD: Diffraction",
+"answer": "A"
+},
+{
+"question": "What is the formula for calculating electric power?\nA: P = IV\nB: P = I2R\nC: P = V2/R\nD: P = IR",
+"answer": "A"
+},
+{
+"question": "What is the formula for calculating electric current?\nA: I = V/R\nB: I = P/V\nC: I = W/t\nD: I = Q/t",
+"answer": "D"
+}
+]
