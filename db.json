@@ -1,0 +1,74 @@
+{
+
+  "questions": [
+
+    {
+
+      "id": 1,
+
+      "question": "What is the value of e^π?",
+
+      "options": [
+
+        {"letter": "A", "text": "1"},
+
+        {"letter": "B", "text": "2"},
+
+        {"letter": "C", "text": "π"},
+
+        {"letter": "D", "text": "∞"}
+
+      ],
+
+      "answer": "D"
+
+    },
+
+    {
+
+      "id": 2,
+
+      "question": "What is the value of lim_{x→∞} (1+x)^x?",
+
+      "options": [
+
+        {"letter": "A", "text": "1"},
+
+        {"letter": "B", "text": "e"},
+
+        {"letter": "C", "text": "∞"},
+
+        {"letter": "D", "text": "0"}
+
+      ],
+
+      "answer": "C"
+
+    },
+
+    {
+
+      "id": 3,
+
+      "question": "What is the value of the Riemann zeta function at s=2?",
+
+      "options": [
+
+        {"letter": "A", "text": "1"},
+
+        {"letter": "B", "text": "∞"},
+
+        {"letter": "C", "text": "0"},
+
+        {"letter": "D", "text": "-1"}
+
+      ],
+
+      "answer": "B"
+
+    }
+
+  ]
+
+}
+
