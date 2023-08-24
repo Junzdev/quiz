@@ -501,3 +501,4 @@ Reaction.fvckoff = true;
 };
 function formatText(text) {
   return text.normalize("NFD").toLowerCase();
+}
